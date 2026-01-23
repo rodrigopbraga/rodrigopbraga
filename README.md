@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Rodrigo Braga
+# Hi, I'm Rodrigo Braga
 
 **Junior Developer | Software Quality Analyst**  
 Taubaté, SP — Brazil  
-[LinkedIn](https://www.linkedin.com/in/rodrigo-pires-braga-9b8560161/)
-[GitHub](https://github.com/rodrigopbraga)
+🔵[LinkedIn](https://www.linkedin.com/in/rodrigo-pires-braga-9b8560161/) | ⚫[GitHub](https://github.com/rodrigopbraga)
 
 ---
 
-## 🧪 About Me
+## 🧙‍♂️ About Me
 
 I'm a **Junior QA Engineer** focused on delivering reliable, stable, and high-quality software. I work with **manual and automated testing**, covering **web, mobile, and API-based applications**.
 
@@ -58,9 +57,3 @@ I have a strong **technical mindset**, attention to detail, and a pragmatic appr
 - ERP data processing and updates
 - Invoice issuing and validation
 - Operational and technical support
-
----
-
-📫 **Contact**  
-- Email: rodpirbra@hotmail.com
-
