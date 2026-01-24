@@ -46,14 +46,7 @@ I have a strong **technical mindset**, attention to detail, and a pragmatic appr
 
 ---
 
-## 💼 Professional Experience
-
-### IT / Data Center Technician — Livraria Leitura  
-📅 Mar/2018 – Jan/2023 · Aug/2024 – Present  
-📍 Taubaté, SP — Brazil
-
-- Infrastructure and IT support
-- Incident and ticket management
-- ERP data processing and updates
-- Invoice issuing and validation
-- Operational and technical support
+## A Bit About Me
+- I Love Games, Kingdom Hearts is a favorite
+- I Love Animals
+- Really like playing Table Tennis and Chess, Want to star Bouldering
