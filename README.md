@@ -49,4 +49,4 @@ I have a strong **technical mindset**, attention to detail, and a pragmatic appr
 ## A Bit About Me
 - I Love Games, Kingdom Hearts is a favorite
 - I Love Animals
-- Really like playing Table Tennis and Chess, Want to star Bouldering
+- Really like playing Table Tennis and Chess, Want to start Bouldering
