@@ -1,8 +1,8 @@
-# Hi, I'm Rodrigo Braga
+# Hi, name's Rodrigo Braga
 
 **Junior Developer | Software Quality Analyst**  
 Taubaté, SP — Brazil  
-🔵[LinkedIn](https://www.linkedin.com/in/rodrigo-pires-braga-9b8560161/) | ⚫[GitHub](https://github.com/rodrigopbraga)
+🔵[LinkedIn](https://www.linkedin.com/in/rodrigopbr) | ⚫[GitHub](https://github.com/rodrigopbraga)
 
 ---
 
