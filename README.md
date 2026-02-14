@@ -2,7 +2,7 @@
 
 **Junior Developer | Software Quality Analyst**  
 Taubaté, SP — Brazil  
-🔵[LinkedIn](https://www.linkedin.com/in/rodrigopbr) | ⚫[GitHub](https://github.com/rodrigopbraga)
+🔵[LinkedIn](https://www.linkedin.com/in/rodrigopbr)
 
 ---
 
